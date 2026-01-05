@@ -40,8 +40,10 @@ This repository provides implementations in **Python, JavaScript, and Java**, ea
 cybersecurity-salary-guide-prediction/
 ├── python/
 │   ├── main.py
+│   ├── chart.py
 │   └── requirements.txt
 ├── javascript/
+│   ├── chart.html
 │   ├── main.js
 │   └── package.json
 ├── java/
