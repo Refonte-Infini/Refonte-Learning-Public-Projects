@@ -29,7 +29,6 @@ This repository provides implementations in **Python, JavaScript, and Java**, ea
 - Incident Response (IR) Engineer / DFIR
 - Threat Hunter
 - Penetration Tester / Red Team
-- IAM Engineer
 - Security Architect
 - GRC Analyst (adjacent “related role”)
 
