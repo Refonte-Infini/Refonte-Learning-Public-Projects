@@ -1,6 +1,6 @@
 # Refonte-Learning-Public-Projects
 
-This repository provides implementations in **Python**, **JavaScript**, and **Java**, each placed in dedicated folders, to predict future salaries for data science and related roles—including cybersecurity and software engineering—using multiple analytical models (e.g., BERT, CAGR, inflation-adjusted forecasting) .
+This repository provides implementations in **Python**, **JavaScript**, and **Java**, each placed in dedicated folders, to predict future salaries for data science and related roles, including cybersecurity and software engineering using multiple analytical models (e.g., BERT, CAGR, inflation-adjusted forecasting) .
 
 ---
 
@@ -90,7 +90,7 @@ We welcome contributions!
 
 ## License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License**, see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
