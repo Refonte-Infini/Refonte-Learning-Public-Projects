@@ -1,0 +1,11 @@
+{
+  "name": "salary-guide-charts",
+  "version": "1.0.0",
+  "description": "Generate 2026 salary guide JSON + charts (SVG) with built-in baselines (no scraping, no input files).",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "license": "MIT"
+}
